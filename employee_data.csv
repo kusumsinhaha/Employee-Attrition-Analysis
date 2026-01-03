@@ -1,6 +1,52 @@
+
 EmployeeID,Age,Gender,Department,JobRole,Education,JobSatisfaction,MonthlyIncome,YearsAtCompany,OverTime,Attrition
 101,28,Male,Sales,Sales Executive,3,4,5000,2,Yes,No
 102,35,Female,IT,Developer,4,3,7000,5,No,Yes
 103,40,Male,HR,HR Manager,4,2,9000,10,No,No
 104,30,Female,IT,Developer,3,5,6500,3,Yes,No
 105,25,Male,Sales,Sales Executive,2,3,4000,1,Yes,Yes
+106,32,Female,IT,System Analyst,3,4,7200,4,No,No
+107,29,Male,HR,HR Executive,2,3,4800,2,Yes,Yes
+108,38,Female,Sales,Sales Manager,4,5,9500,8,No,No
+109,26,Male,IT,Developer,3,4,6000,2,Yes,No
+110,31,Female,HR,HR Executive,3,3,5200,3,No,Yes
+111,27,Male,Sales,Sales Executive,2,4,4500,1,Yes,No
+112,34,Female,IT,Developer,3,3,6800,5,No,No
+113,36,Male,HR,HR Manager,4,2,9000,9,No,Yes
+114,29,Female,IT,System Analyst,3,4,7100,3,Yes,No
+115,33,Male,Sales,Sales Executive,3,3,5200,4,Yes,No
+116,30,Female,HR,HR Executive,3,4,5600,2,No,Yes
+117,28,Male,IT,Developer,3,4,6000,2,Yes,No
+118,37,Female,Sales,Sales Manager,4,5,9800,7,No,No
+119,26,Male,IT,Developer,2,3,6200,1,Yes,Yes
+120,32,Female,HR,HR Executive,3,3,5400,4,No,No
+121,31,Male,Sales,Sales Executive,3,4,5100,3,Yes,No
+122,29,Female,IT,System Analyst,3,5,7300,3,No,No
+123,34,Male,HR,HR Manager,4,2,8800,6,No,Yes
+124,27,Female,Sales,Sales Executive,2,4,4700,2,Yes,No
+125,36,Male,IT,Developer,4,3,7000,8,No,No
+126,30,Female,HR,HR Executive,3,4,5600,3,Yes,Yes
+127,28,Male,Sales,Sales Executive,3,3,5000,2,Yes,No
+128,35,Female,IT,System Analyst,4,4,7500,5,No,No
+129,33,Male,HR,HR Executive,3,3,5200,4,No,Yes
+130,29,Female,Sales,Sales Manager,3,5,9600,3,No,No
+131,32,Male,IT,Developer,3,4,6800,5,Yes,No
+132,27,Female,HR,HR Executive,2,3,4900,2,No,Yes
+133,30,Male,Sales,Sales Executive,3,4,5100,3,Yes,No
+134,36,Female,IT,System Analyst,4,4,7300,6,No,No
+135,31,Male,HR,HR Manager,3,2,8800,5,No,Yes
+136,29,Female,Sales,Sales Executive,3,4,5000,2,Yes,No
+137,28,Male,IT,Developer,3,3,6200,3,Yes,No
+138,34,Female,HR,HR Executive,4,3,5400,4,No,Yes
+139,32,Male,Sales,Sales Manager,3,5,9500,6,No,No
+140,30,Female,IT,System Analyst,3,4,7100,3,Yes,No
+141,27,Male,HR,HR Executive,2,3,4800,1,No,Yes
+142,36,Female,Sales,Sales Executive,4,4,5200,7,Yes,No
+143,29,Male,IT,Developer,3,4,6600,3,Yes,No
+144,31,Female,HR,HR Manager,3,2,9000,4,No,Yes
+145,28,Male,Sales,Sales Executive,3,3,5000,2,Yes,No
+146,33,Female,IT,System Analyst,4,5,7500,5,No,No
+147,35,Male,HR,HR Executive,3,3,5600,6,No,Yes
+148,30,Female,Sales,Sales Manager,3,4,9800,3,No,No
+149,32,Male,IT,Developer,3,4,7000,5,Yes,No
+150,29,Female,HR,HR Executive,3,3,5400,3,No,Yes
