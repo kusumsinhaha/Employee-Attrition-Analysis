@@ -1,0 +1,6 @@
+EmployeeID,Age,Gender,Department,JobRole,Education,JobSatisfaction,MonthlyIncome,YearsAtCompany,OverTime,Attrition
+101,28,Male,Sales,Sales Executive,3,4,5000,2,Yes,No
+102,35,Female,IT,Developer,4,3,7000,5,No,Yes
+103,40,Male,HR,HR Manager,4,2,9000,10,No,No
+104,30,Female,IT,Developer,3,5,6500,3,Yes,No
+105,25,Male,Sales,Sales Executive,2,3,4000,1,Yes,Yes
